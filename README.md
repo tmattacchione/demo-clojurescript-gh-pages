@@ -1,6 +1,6 @@
 # Deploy ClojureScript to Github Pages
 
-This repo contains demo code for [Blog Post](http://localhost:8000/deoploy-clojurescript-to-github-pages). Live site [here](https://athomasoriginal.github.io/demo-clojurescript-gh-pages/)
+This repo contains demo code for [Blog Post](https://betweentwoparens.com/blog/deploy-clojurescript-to-github-pages/#fn-versioned-dependencies). Live site [here](https://athomasoriginal.github.io/demo-clojurescript-gh-pages/)
 
 ## Gotchas
 
